@@ -2,8 +2,8 @@
   "name": "@mini-vue-next/shared",
   "version": "1.0.0",
   "description": "@mini-vue-next/shared",
-  "main": "src/index.js",
-  "module": "src/index.js",
+  "main": "dist/shared.cjs.js",
+  "module": "dist/shared.esm.bundler.js",
   "keywords": [],
   "author": "",
   "license": "ISC"

@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "@mini-vue-next/reactivity",
   "main": "dist/reactivity.cjs.js",
-  "module": "dist/shared.esm.bundler.js",
+  "module": "dist/reactivity.esm.bundler.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mini-vue-next/shared": "workspace:^1.0.0",
-    "shared": "^0.2.0"
+    "@mini-vue-next/shared": "workspace:^1.0.0"
   }
 }
